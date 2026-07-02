@@ -1,2 +1,4 @@
 Flask
 matplotlib
+mysql-connector-python
+pandas
